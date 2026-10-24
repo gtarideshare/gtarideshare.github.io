@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gtarideshare.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gtarideshare.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://gtarideshare.github.io/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://gtarideshare.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="pa" href="https://gtarideshare.github.io/pa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://gtarideshare.github.io/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://gtarideshare.github.io/ur/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://gtarideshare.github.io/tl/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://gtarideshare.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://gtarideshare.github.io/fa/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://gtarideshare.github.io/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gtarideshare.github.io/fr/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url><loc>https://gtarideshare.github.io/zh-hans/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/zh-hant/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/pa/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/hi/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/ur/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/tl/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/es/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/fa/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/ar/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/fr/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+</urlset>
