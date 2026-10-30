@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://gtarideshare.github.io/sitemap.xml
+Sitemap: https://gtarideshare.pages.dev/sitemap.xml
