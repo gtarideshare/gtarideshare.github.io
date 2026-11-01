@@ -19,6 +19,20 @@
     <xhtml:link rel="alternate" hreflang="id" href="https://gtarideshare.pages.dev/id/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://gtarideshare.pages.dev/ru/"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://gtarideshare.pages.dev/vi/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://gtarideshare.pages.dev/ta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://gtarideshare.pages.dev/pt/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://gtarideshare.pages.dev/uk/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gtarideshare.pages.dev/pl/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gtarideshare.pages.dev/ro/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://gtarideshare.pages.dev/nl/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://gtarideshare.pages.dev/it/"/>
+    <xhtml:link rel="alternate" hreflang="am" href="https://gtarideshare.pages.dev/am/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://gtarideshare.pages.dev/el/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://gtarideshare.pages.dev/tr/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://gtarideshare.pages.dev/he/"/>
+    <xhtml:link rel="alternate" hreflang="gu" href="https://gtarideshare.pages.dev/gu/"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://gtarideshare.pages.dev/bn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://gtarideshare.pages.dev/de/"/>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -38,4 +52,18 @@
   <url><loc>https://gtarideshare.pages.dev/id/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://gtarideshare.pages.dev/ru/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://gtarideshare.pages.dev/vi/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/ta/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/pt/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/uk/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/pl/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/ro/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/nl/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/it/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/am/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/el/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/tr/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/he/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/gu/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/bn/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.pages.dev/de/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>
